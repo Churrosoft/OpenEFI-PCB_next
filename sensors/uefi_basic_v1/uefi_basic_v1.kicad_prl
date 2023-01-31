@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 1,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -14,12 +14,12 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
+      "otherItems": false,
       "pads": false,
       "text": true,
       "tracks": true,
@@ -65,7 +65,7 @@
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "basic_v1.kicad_prl",
+    "filename": "uefi_basic_v1.kicad_prl",
     "version": 3
   },
   "project": {

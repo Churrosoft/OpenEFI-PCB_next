@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "OpenEFI-STM32F_rev3")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/OpenEFI-PCB_next/library/OpenEFI-STM32F_rev3.pretty")(options "")(descr ""))
+  (lib (name "uEFI_Library")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/OpenEFI-PCB_next/library/uEFI_Library.pretty")(options "")(descr ""))
+)
