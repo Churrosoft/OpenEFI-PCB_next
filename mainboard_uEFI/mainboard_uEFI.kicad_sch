@@ -9653,9 +9653,6 @@
     (path "/de2203bf-532a-4e79-86ab-7c64dd4484e8/820ff805-1fd8-40bf-8b32-07a2b3070f9d"
       (reference "F8") (unit 1) (value "750mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
-    (path "/de2203bf-532a-4e79-86ab-7c64dd4484e8/b251730a-5777-4ffb-a1aa-b9a4c97ce55a"
-      (reference "F9") (unit 1) (value "750mA") (footprint "Fuse:Fuse_1206_3216Metric")
-    )
     (path "/48eaab5f-f1f9-49a5-aab9-e845bb739fbb"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad_Via")
     )
